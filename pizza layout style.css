@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+		h1{
+			font-size: 45px;
+			color: #FFF;
+		}
+		p.name{
+			color: #FFF;
+		}
+		.bbb{
+			background-color:#00534D;
+			font-family:"Lucida Sans";
+			padding: 2%;
+			text-align: center;
+			
+		}
+		.nav{
+			background-color: #5AE1A4;
+			padding:2% 3%;
+			text-align: center;
+		}
+		li{
+			display: inline;
+			font-size: 15px;
+			font-family: "Lucida Sans Typewriter";
+			color:#FFF;
+		}
+		div.about{
+			font-family:"Lucida Sans";
+			background-color:#FFF;
+			padding: 5% 0%;
+			font-size:15px;
+			margin-top:10%;
+			margin-left:5%;
+			margin-right: 5%;
+		}
+div.menu{
+			font-family:"Lucida Sans";
+			background-color:#FFF;
+			padding: 5% 0%;
+			font-size:15px;
+			margin-top:10%;
+			margin-left:5%;
+			margin-right: 5%;
+	text-align: center;
+		}
+		div.way{
+			font-family:"Lucida Sans";
+			background-color:#FFF;
+			padding:5% 0%;;
+			font-size:15px;
+			margin-top:10%;
+			margin-left:5%;
+			margin-right: 5%;
+		}
+		h3{
+			margin-left: 3%;
+			font-size: 20px;
+			text-align: center;
+		}
+		p, a{
+			margin-left:2%;
+			margin-right:2%
+		}
+p.menu{
+	font-family:"Lucida Sans";
+	font-size:15px;
+}
+table.form{ 
+			margin-left:23%;
+			margin-right:30%;
+			width:56%;
+			font-family:"Lucida Sans";
+			background-color: #E0E0E0;
+	text-align:center;
+		}
+		tr{
+			height: 40px;
+		}
+		th,td{
+			border-bottom: 1px solid #000;
+		}
+		td.big{
+			font-size: 20px;
+			font-family:"Lucida Sans";
+		}
+		td.blank{
+			height: 5%;
+		}
+		p.state{
+			height : 60px;
+			overflow: scroll;
+			background-color:#FFFFFF;
+		}
+		p.pi{
+			width:40%;
+			height:40px;
+			overflow:scroll;
+			background-color:#FFFFFF;
+		}
+		p.pa{
+			font-family:"Lucida Sans";
+			width: 40%;
+			height:60px;
+			overflow: scroll;
+			background-color:#FFFFFF;
+		}
+p.si{
+			font-family:"Lucida Sans";
+			width: 40%;
+			height:60px;
+			overflow: scroll;
+			background-color:#FFFFFF;
+		}
+p.dr{
+			font-family:"Lucida Sans";
+			width: 40%;
+			height:60px;
+			overflow: scroll;
+			background-color:#FFFFFF;
+		}
